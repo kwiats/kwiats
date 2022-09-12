@@ -1,7 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwiats&show_icons=true&theme=dark)
-
-<img src="https://github-readme-stats.vercel.app/api?username=kwiats&show_icons=true&theme=dark" width="400">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kwiats&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
