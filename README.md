@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwiats&show_icons=true&theme=dark)
 
+<img src="https://github-readme-stats.vercel.app/api?username=kwiats&show_icons=true&theme=dark" width="400">
+
 
 
 <!--
