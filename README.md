@@ -6,7 +6,7 @@
 <h3>Dictionary - flashcards app</h3>
 <h4> To-Do list:</h4>
 
-- Convert terminal app to web app
+- Convert terminal app to web app(django)
 
 - More function to handling data base
 
