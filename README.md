@@ -8,7 +8,7 @@ The second project [LEM](https://github.com/LemCommunity/lem) that I am working 
 
 Obecnie pracuję nad trzema projektami. Pierwszym, głównym projektem [flashcards.app](https://github.com/kwiats/flashcards-app), jest aplikacja do nauki angielskiego z fiszkami stworzona za pomocą frameworków Django i Django Rest Framework oraz z wykorzystaniem bazy danych Postgres. Do tego projektu wykorzystałem również Dockera i Poetry. Aplikacja jest wciąż w fazie rozwoju i stale pracuję nad jej ulepszeniami.
 Drugim projektem, nad którym pracuję, jest [LEM](https://github.com/LemCommunity/lem) - aplikacja, w której uczę się pracy w zespole poprzez tworzenie aplikacji z grupą 40 osób z wykorzystaniem Django. Należę do Zespołu 1, który odpowiada za implementację modelu książek, recenzji i gatunków.
-Trzecim projektem jest aplikacja do zarządzania firma - pracownikami, zarobkami i zadaniami. 
+Trzecim projektem jest aplikacja do zarządzania firma - pracownikami, zarobkami i zadaniami [dasboard-job-schedule](https://github.com/Dashboard-Manager/job-schedule)
 
 ---
 
